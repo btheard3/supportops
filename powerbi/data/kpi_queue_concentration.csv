@@ -1,0 +1,11 @@
+queue,ticket_count,share,cum_share
+technical support,5824,0.2912,0.2912
+product support,3708,0.1854,0.4766
+customer service,3152,0.1576,0.6342
+it support,2292,0.1146,0.7488
+billing and payments,2086,0.1043,0.8531
+returns and exchanges,1001,0.05005,0.90315
+service outages and maintenance,764,0.0382,0.94135
+sales and pre-sales,572,0.0286,0.96995
+human resources,338,0.0169,0.98685
+general inquiry,263,0.01315,1.0

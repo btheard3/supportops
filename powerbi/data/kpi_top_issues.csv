@@ -1,0 +1,3254 @@
+queue,tag,ticket_count
+technical support,tech support,2681
+technical support,it,2676
+technical support,bug,2593
+technical support,performance,2249
+technical support,technical,2064
+technical support,documentation,1940
+technical support,resolution,1521
+product support,feedback,1483
+technical support,security,1466
+technical support,feedback,1454
+product support,tech support,1438
+product support,it,1416
+product support,documentation,1368
+product support,bug,1363
+product support,performance,1354
+customer service,documentation,1336
+customer service,feedback,1306
+product support,technical,1248
+customer service,it,1229
+customer service,tech support,1223
+billing and payments,billing,1165
+it support,it,1026
+it support,tech support,1006
+customer service,performance,928
+technical support,crash,896
+product support,security,855
+billing and payments,payment,850
+product support,resolution,842
+it support,bug,823
+customer service,technical,821
+it support,performance,807
+technical support,feature,795
+it support,documentation,770
+customer service,bug,766
+customer service,security,759
+it support,technical,740
+product support,feature,735
+technical support,network,733
+technical support,outage,719
+technical support,guidance,708
+it support,feedback,694
+billing and payments,feedback,690
+customer service,feature,677
+billing and payments,documentation,640
+customer service,guidance,617
+it support,security,570
+billing and payments,tech support,569
+product support,guidance,560
+technical support,customer,544
+it support,resolution,531
+technical support,product,508
+product support,product,506
+customer service,product,498
+billing and payments,it,491
+customer service,customer,467
+technical support,integration,462
+billing and payments,security,461
+customer service,resolution,457
+technical support,disruption,432
+returns and exchanges,feedback,417
+technical support,incident,412
+product support,customer,411
+technical support,hardware,387
+billing and payments,account,382
+it support,feature,375
+service outages and maintenance,outage,371
+service outages and maintenance,it,368
+returns and exchanges,tech support,363
+returns and exchanges,performance,360
+product support,integration,355
+it support,network,355
+returns and exchanges,it,355
+technical support,maintenance,352
+service outages and maintenance,tech support,349
+it support,crash,349
+billing and payments,product,343
+product support,network,340
+customer service,sales,336
+returns and exchanges,documentation,334
+billing and payments,customer,327
+service outages and maintenance,performance,327
+returns and exchanges,bug,327
+it support,guidance,323
+customer service,integration,319
+billing and payments,resolution,311
+technical support,breach,306
+billing and payments,feature,305
+billing and payments,refund,301
+billing and payments,bug,301
+technical support,software,296
+sales and pre-sales,feedback,296
+it support,outage,295
+service outages and maintenance,disruption,293
+billing and payments,sales,287
+product support,sales,285
+billing and payments,performance,283
+product support,crash,281
+returns and exchanges,security,260
+sales and pre-sales,documentation,250
+product support,outage,243
+returns and exchanges,technical,240
+billing and payments,technical,236
+billing and payments,guidance,226
+it support,product,223
+technical support,follow-up,222
+service outages and maintenance,technical,214
+returns and exchanges,product,209
+it support,customer,209
+technical support,sales,208
+it support,disruption,208
+it support,hardware,205
+product support,breach,204
+sales and pre-sales,it,202
+returns and exchanges,feature,199
+technical support,virus,198
+product support,incident,196
+sales and pre-sales,tech support,196
+returns and exchanges,resolution,189
+service outages and maintenance,documentation,187
+product support,maintenance,186
+it support,maintenance,180
+service outages and maintenance,feedback,176
+customer service,network,175
+service outages and maintenance,resolution,171
+customer service,strategy,168
+sales and pre-sales,feature,166
+sales and pre-sales,product,164
+customer service,marketing,163
+product support,software,162
+product support,disruption,161
+customer service,breach,161
+human resources,it,160
+returns and exchanges,guidance,158
+service outages and maintenance,bug,157
+human resources,tech support,154
+technical support,support,151
+it support,incident,149
+product support,follow-up,147
+service outages and maintenance,network,145
+customer service,incident,144
+sales and pre-sales,performance,141
+general inquiry,feedback,141
+service outages and maintenance,maintenance,140
+technical support,investigation,138
+customer service,crash,137
+product support,marketing,130
+product support,hardware,128
+customer service,outage,126
+it support,software,123
+returns and exchanges,customer,121
+sales and pre-sales,technical,120
+it support,breach,120
+service outages and maintenance,security,119
+sales and pre-sales,security,118
+billing and payments,disruption,117
+customer service,maintenance,115
+general inquiry,documentation,115
+sales and pre-sales,sales,115
+human resources,documentation,115
+technical support,alert,114
+technical support,login,114
+sales and pre-sales,guidance,113
+returns and exchanges,sales,112
+technical support,recovery,111
+technical support,marketing,110
+human resources,feedback,110
+it support,integration,109
+it support,login,107
+billing and payments,integration,100
+customer service,software,100
+billing and payments,support,99
+it support,sales,99
+technical support,account,99
+sales and pre-sales,bug,98
+technical support,strategy,98
+product support,support,98
+technical support,api,95
+technical support,issue,93
+human resources,performance,91
+customer service,follow-up,91
+general inquiry,feature,90
+technical support,server,90
+customer service,disruption,90
+customer service,hardware,90
+general inquiry,performance,89
+technical support,compliance,89
+product support,strategy,89
+service outages and maintenance,guidance,88
+customer service,login,87
+product support,campaign,87
+sales and pre-sales,customer,87
+product support,training,86
+billing and payments,subscription,85
+billing and payments,pricing,85
+service outages and maintenance,recovery,83
+technical support,training,82
+human resources,bug,82
+customer service,support,82
+human resources,security,81
+service outages and maintenance,crash,81
+customer service,compliance,81
+technical support,notification,80
+technical support,analytics,79
+it support,follow-up,79
+general inquiry,it,79
+returns and exchanges,breach,77
+billing and payments,breach,75
+technical support,database,73
+returns and exchanges,incident,73
+customer service,virus,73
+technical support,update,73
+product support,investigation,73
+product support,analytics,72
+general inquiry,tech support,72
+service outages and maintenance,customer,71
+technical support,communication,71
+customer service,training,71
+billing and payments,discount,70
+service outages and maintenance,product,70
+product support,virus,69
+service outages and maintenance,feature,69
+product support,synchronization,69
+technical support,backup,69
+billing and payments,maintenance,69
+technical support,campaign,67
+technical support,dashboard,67
+it support,virus,66
+product support,login,66
+it support,support,66
+billing and payments,investigation,66
+customer service,analytics,66
+product support,api,65
+general inquiry,technical,65
+technical support,synchronization,64
+technical support,compatibility,63
+product support,account,63
+general inquiry,bug,62
+general inquiry,security,62
+returns and exchanges,integration,59
+billing and payments,inquiry,59
+billing and payments,follow-up,59
+customer service,campaign,59
+technical support,encryption,59
+human resources,training,58
+human resources,feature,58
+sales and pre-sales,resolution,58
+customer service,digital,57
+customer service,account,56
+it support,marketing,56
+human resources,employee,55
+human resources,technical,55
+billing and payments,crash,55
+customer service,investment,54
+service outages and maintenance,integration,53
+billing and payments,outage,53
+billing and payments,network,53
+product support,issue,52
+billing and payments,incident,52
+product support,alert,52
+product support,communication,51
+service outages and maintenance,incident,50
+returns and exchanges,outage,49
+customer service,communication,49
+human resources,guidance,49
+customer service,backup,49
+technical support,medical,49
+returns and exchanges,maintenance,47
+general inquiry,product,47
+customer service,encryption,46
+returns and exchanges,marketing,46
+billing and payments,compliance,46
+human resources,resolution,46
+technical support,configuration,46
+product support,compliance,46
+it support,recovery,45
+product support,investment,44
+technical support,data,44
+it support,issue,43
+returns and exchanges,strategy,42
+returns and exchanges,follow-up,42
+product support,update,42
+technical support,assistance,42
+customer service,growth,41
+general inquiry,guidance,41
+product support,notification,41
+it support,strategy,41
+it support,alert,41
+product support,optimization,40
+billing and payments,information,40
+it support,account,40
+returns and exchanges,crash,40
+general inquiry,resolution,39
+returns and exchanges,network,39
+customer service,investigation,39
+technical support,website,39
+technical support,troubleshooting,38
+human resources,hr,38
+customer service,socialmedia,38
+it support,training,38
+product support,medical,38
+product support,encryption,38
+billing and payments,notification,37
+technical support,error,37
+customer service,medical,37
+product support,assistance,37
+general inquiry,customer,37
+sales and pre-sales,integration,37
+customer service,api,36
+customer service,alert,36
+product support,backup,35
+product support,recovery,35
+it support,encryption,35
+service outages and maintenance,hardware,34
+customer service,information,34
+product support,compatibility,33
+it support,update,33
+technical support,log,33
+it support,server,32
+service outages and maintenance,software,32
+it support,compliance,32
+it support,medical,32
+returns and exchanges,hardware,32
+billing and payments,encryption,32
+product support,configuration,32
+general inquiry,sales,31
+product support,server,31
+billing and payments,invoice,31
+billing and payments,virus,31
+technical support,investment,31
+billing and payments,backup,31
+product support,database,31
+customer service,synchronization,30
+service outages and maintenance,sales,30
+it support,campaign,30
+customer service,issue,30
+technical support,digital,30
+technical support,growth,30
+customer service,notification,29
+it support,notification,29
+customer service,engagement,29
+human resources,product,29
+sales and pre-sales,strategy,29
+billing and payments,medical,29
+customer service,compatibility,29
+service outages and maintenance,follow-up,29
+billing and payments,recovery,28
+product support,sync,28
+returns and exchanges,disruption,28
+it support,investigation,28
+customer service,update,28
+customer service,tool,28
+technical support,information,27
+billing and payments,hardware,27
+it support,communication,27
+it support,database,27
+product support,tool,27
+returns and exchanges,software,27
+product support,collaboration,27
+billing and payments,training,26
+billing and payments,alert,26
+service outages and maintenance,breach,26
+billing and payments,marketing,26
+product support,dashboard,26
+returns and exchanges,billing,25
+sales and pre-sales,marketing,25
+customer service,assistance,25
+customer service,hipaa,25
+technical support,tool,25
+technical support,project,25
+billing and payments,issue,25
+product support,lead,25
+customer service,optimization,24
+returns and exchanges,account,24
+technical support,sync,24
+it support,implementation,24
+technical support,optimization,24
+human resources,sales,24
+human resources,customer,24
+customer service,data,24
+service outages and maintenance,support,24
+billing and payments,software,24
+human resources,integration,23
+technical support,privacy,23
+billing and payments,strategy,23
+returns and exchanges,virus,23
+product support,troubleshooting,23
+product support,project,23
+customer service,discussion,23
+billing and payments,discrepancy,22
+technical support,routine,22
+customer service,collaboration,22
+sales and pre-sales,training,22
+returns and exchanges,investigation,22
+technical support,elasticsearch,22
+sales and pre-sales,network,22
+sales and pre-sales,breach,22
+human resources,outage,22
+billing and payments,promotion,22
+product support,error,21
+returns and exchanges,login,21
+it support,backup,21
+it support,upgrade,21
+human resources,crash,21
+human resources,network,21
+general inquiry,integration,21
+product support,onboarding,21
+technical support,system,20
+technical support,improvement,20
+returns and exchanges,analytics,20
+human resources,disruption,20
+returns and exchanges,support,20
+sales and pre-sales,maintenance,20
+returns and exchanges,compliance,20
+technical support,discussion,20
+human resources,incident,20
+customer service,billing,20
+service outages and maintenance,marketing,20
+customer service,projectmanagement,20
+customer service,troubleshooting,20
+billing and payments,communication,20
+customer service,brand,19
+customer service,recovery,19
+human resources,breach,19
+billing and payments,login,19
+it support,troubleshooting,19
+technical support,access,19
+billing and payments,assistance,19
+customer service,server,19
+returns and exchanges,notification,19
+customer service,lead,19
+product support,digital,18
+returns and exchanges,campaign,18
+customer service,analysis,18
+human resources,alert,18
+service outages and maintenance,notification,18
+returns and exchanges,alert,18
+human resources,notification,18
+it support,synchronization,18
+technical support,conflict,18
+it support,collaboration,18
+technical support,dataloss,18
+returns and exchanges,communication,18
+billing and payments,analytics,18
+customer service,privacy,18
+it support,tool,17
+it support,configuration,17
+product support,analysis,17
+technical support,lead,17
+product support,improvement,17
+human resources,marketing,17
+product support,engagement,17
+general inquiry,breach,17
+it support,analytics,17
+billing and payments,lead,17
+billing and payments,service,16
+it support,data,16
+customer service,service,16
+technical support,plugin,16
+billing and payments,correction,16
+returns and exchanges,update,16
+customer service,configuration,16
+technical support,malware,16
+customer service,portfolio,16
+service outages and maintenance,strategy,16
+human resources,maintenance,16
+sales and pre-sales,analytics,16
+it support,api,16
+customer service,hospital,16
+billing and payments,investment,16
+billing and payments,hipaa,16
+technical support,problem,15
+human resources,onboarding,15
+technical support,projectmanagement,15
+sales and pre-sales,follow-up,15
+technical support,upgrade,15
+product support,metrics,15
+returns and exchanges,order,15
+technical support,urgent,15
+technical support,hipaa,15
+technical support,platform,15
+service outages and maintenance,training,15
+returns and exchanges,encryption,15
+technical support,digitalmarketing,15
+billing and payments,update,15
+product support,data,14
+human resources,virus,14
+returns and exchanges,investment,14
+sales and pre-sales,virus,14
+returns and exchanges,return,14
+service outages and maintenance,communication,14
+billing and payments,discussion,14
+customer service,onboarding,14
+it support,compatibility,14
+sales and pre-sales,support,14
+technical support,brand,14
+customer service,patient,14
+sales and pre-sales,crash,14
+product support,routine,14
+customer service,digitalmarketing,13
+product support,enhancement,13
+it support,access,13
+sales and pre-sales,outage,13
+customer service,seo,13
+it support,assistance,13
+technical support,onboarding,13
+billing and payments,charge,13
+product support,discussion,13
+product support,billing,13
+sales and pre-sales,tool,13
+it support,digital,13
+billing and payments,services,13
+product support,growth,13
+service outages and maintenance,investigation,13
+general inquiry,marketing,12
+returns and exchanges,compatibility,12
+customer service,dashboard,12
+it support,workflow,12
+technical support,implementation,12
+returns and exchanges,training,12
+product support,information,12
+sales and pre-sales,campaign,12
+returns and exchanges,shipment,12
+technical support,firewall,12
+it support,engagement,12
+technical support,tools,12
+sales and pre-sales,backup,12
+human resources,strategy,12
+it support,information,12
+it support,digitalmarketing,12
+technical support,billing,12
+technical support,patient,12
+general inquiry,incident,12
+human resources,login,12
+sales and pre-sales,incident,12
+product support,access,12
+technical support,driver,12
+returns and exchanges,refund,12
+returns and exchanges,api,11
+service outages and maintenance,backup,11
+general inquiry,maintenance,11
+product support,socialmedia,11
+customer service,integrity,11
+billing and payments,error,11
+it support,authentication,11
+customer service,metrics,11
+product support,workflow,11
+customer service,database,11
+service outages and maintenance,analytics,11
+it support,routine,11
+human resources,follow-up,11
+returns and exchanges,issue,11
+technical support,automation,11
+sales and pre-sales,software,11
+product support,authentication,11
+billing and payments,digital,11
+service outages and maintenance,update,11
+billing and payments,verification,11
+customer service,access,11
+customer service,tools,11
+product support,reporting,11
+technical support,socialmedia,11
+service outages and maintenance,routine,11
+general inquiry,crash,11
+technical support,workflow,11
+technical support,resource,11
+it support,discussion,11
+product support,automation,10
+it support,connectivity,10
+technical support,employee,10
+product support,problem,10
+product support,smartsheet,10
+it support,investment,10
+returns and exchanges,assistance,10
+human resources,software,10
+service outages and maintenance,encryption,10
+product support,cache,10
+returns and exchanges,returns,10
+service outages and maintenance,medical,10
+technical support,saas,10
+product support,adjustment,10
+general inquiry,support,10
+service outages and maintenance,upgrade,10
+customer service,sync,10
+general inquiry,strategy,10
+product support,privacy,10
+service outages and maintenance,issue,10
+technical support,sap,10
+product support,implementation,10
+it support,growth,10
+returns and exchanges,tool,10
+it support,dataloss,10
+sales and pre-sales,investment,10
+billing and payments,integrity,10
+returns and exchanges,medical,10
+service outages and maintenance,account,10
+technical support,enhancement,10
+customer service,project,9
+product support,browser,9
+technical support,online,9
+technical support,connection,9
+billing and payments,quickbooks,9
+customer service,urgent,9
+billing and payments,data,9
+service outages and maintenance,server,9
+customer service,healthcare,9
+customer service,accesscontrol,9
+sales and pre-sales,digital,9
+sales and pre-sales,compliance,9
+general inquiry,software,9
+customer service,error,9
+returns and exchanges,discussion,9
+technical support,engagement,9
+customer service,protection,9
+product support,employee,9
+service outages and maintenance,compatibility,9
+technical support,analysis,9
+sales and pre-sales,billing,9
+billing and payments,privacy,9
+customer service,system,9
+technical support,accesscontrol,9
+technical support,portfolio,9
+customer service,routine,9
+it support,error,9
+it support,connection,9
+it support,website,9
+billing and payments,order,9
+billing and payments,database,9
+human resources,analytics,9
+customer service,services,9
+service outages and maintenance,compliance,8
+billing and payments,fee,8
+technical support,device,8
+returns and exchanges,lead,8
+billing and payments,protection,8
+customer service,improvement,8
+product support,antivirus,8
+technical support,integrity,8
+general inquiry,analytics,8
+technical support,setup,8
+customer service,website,8
+customer service,workflow,8
+technical support,adobe,8
+sales and pre-sales,update,8
+it support,privacy,8
+sales and pre-sales,hardware,8
+it support,storage,8
+customer service,finance,8
+billing and payments,storage,8
+sales and pre-sales,communication,8
+product support,elasticsearch,8
+technical support,application,8
+billing and payments,saas,8
+technical support,expansion,8
+customer service,branding,8
+customer service,business,8
+product support,log,8
+product support,projectmanagement,8
+technical support,docker,8
+it support,driver,8
+billing and payments,access,8
+technical support,connectivity,8
+product support,solution,8
+product support,urgent,8
+product support,targeting,8
+customer service,dataanalytics,8
+technical support,tracking,8
+customer service,saas,8
+sales and pre-sales,pricing,8
+it support,onboarding,8
+technical support,hospital,8
+human resources,communication,8
+technical support,call,8
+technical support,metrics,8
+sales and pre-sales,investigation,8
+customer service,expansion,8
+technical support,confidentiality,7
+billing and payments,configuration,7
+product support,decisionmaking,7
+general inquiry,training,7
+customer service,enhancement,7
+billing and payments,synchronization,7
+service outages and maintenance,login,7
+customer service,inquiry,7
+technical support,general,7
+technical support,crm,7
+service outages and maintenance,optimization,7
+product support,incompatibility,7
+service outages and maintenance,employee,7
+general inquiry,follow-up,7
+general inquiry,outage,7
+returns and exchanges,analysis,7
+returns and exchanges,synchronization,7
+it support,conflict,7
+customer service,dataloss,7
+service outages and maintenance,troubleshooting,7
+service outages and maintenance,tool,7
+customer service,emailmarketing,7
+sales and pre-sales,engagement,7
+customer service,employee,7
+technical support,smartsheet,7
+sales and pre-sales,lead,7
+it support,improvement,7
+it support,patient,7
+sales and pre-sales,information,7
+product support,system,7
+technical support,healthcare,7
+product support,accesscontrol,7
+product support,forecast,7
+service outages and maintenance,assistance,7
+billing and payments,accesscontrol,7
+product support,sap,7
+customer service,docker,7
+customer service,algorithm,7
+technical support,incompatibility,7
+product support,docker,7
+human resources,hardware,7
+returns and exchanges,subscription,7
+it support,efficiency,7
+customer service,targeting,7
+product support,dataanalytics,7
+returns and exchanges,replacement,7
+billing and payments,confidentiality,7
+technical support,collaboration,7
+product support,hipaa,7
+technical support,branding,7
+product support,dataanalysis,7
+returns and exchanges,engagement,7
+technical support,postgresql,7
+general inquiry,collaboration,7
+it support,outdated,7
+general inquiry,network,7
+technical support,dataanalytics,7
+customer service,storage,7
+technical support,dataanalysis,7
+it support,setup,7
+returns and exchanges,optimization,7
+sales and pre-sales,growth,7
+technical support,cassandra,6
+service outages and maintenance,data,6
+customer service,monitoring,6
+customer service,implementation,6
+returns and exchanges,digitalmarketing,6
+technical support,softwareupdate,6
+technical support,contentmarketing,6
+technical support,seo,6
+billing and payments,digitalmarketing,6
+product support,quickbooks,6
+product support,finance,6
+product support,accesscontrols,6
+technical support,antivirus,6
+technical support,outdated,6
+sales and pre-sales,finance,6
+it support,urgent,6
+general inquiry,hardware,6
+technical support,cache,6
+billing and payments,optimization,6
+returns and exchanges,finance,6
+returns and exchanges,onboarding,6
+customer service,authentication,6
+product support,upgrade,6
+it support,solution,6
+technical support,inquiry,6
+customer service,platform,6
+returns and exchanges,hipaa,6
+technical support,onlinepresence,6
+product support,hub,6
+customer service,node.js,6
+billing and payments,abonnement,6
+customer service,online,6
+service outages and maintenance,lead,6
+technical support,solution,6
+general inquiry,disruption,6
+billing and payments,healthcare,6
+billing and payments,project,6
+general inquiry,account,6
+billing and payments,magento,6
+billing and payments,upgrade,6
+billing and payments,patient,6
+product support,deployment,6
+service outages and maintenance,investment,6
+technical support,contentcreation,6
+technical support,jira,6
+it support,browser,6
+human resources,support,6
+customer service,customization,6
+customer service,advice,6
+technical support,hubspot,6
+sales and pre-sales,disruption,6
+customer service,problem,6
+it support,projectmanagement,6
+product support,resource,6
+service outages and maintenance,virus,6
+returns and exchanges,digital,6
+it support,elasticsearch,6
+billing and payments,outdated,6
+sales and pre-sales,compatibility,6
+product support,brand,6
+customer service,content,6
+customer service,adjustment,6
+service outages and maintenance,website,5
+technical support,shopify,5
+technical support,browser,5
+product support,saas,5
+returns and exchanges,collaboration,5
+technical support,pricing,5
+it support,incompatibility,5
+returns and exchanges,inventory,5
+customer service,financial,5
+product support,jira,5
+customer service,systemrequirements,5
+product support,driver,5
+returns and exchanges,growth,5
+returns and exchanges,call,5
+product support,storage,5
+service outages and maintenance,efficiency,5
+sales and pre-sales,encryption,5
+it support,lead,5
+billing and payments,charges,5
+returns and exchanges,improvement,5
+product support,customization,5
+it support,employee,5
+it support,optimization,5
+it support,cache,5
+it support,protection,5
+product support,plugin,5
+technical support,service,5
+technical support,timeline,5
+billing and payments,confirmation,5
+product support,machinelearning,5
+returns and exchanges,urgent,5
+technical support,mongodb,5
+product support,management,5
+technical support,monitoring,5
+billing and payments,cost,5
+product support,delay,5
+customer service,dataanalysis,5
+customer service,macos,5
+technical support,authentication,5
+technical support,storage,5
+technical support,development,5
+customer service,requirement,5
+sales and pre-sales,issue,5
+human resources,account,5
+technical support,vulnerability,5
+product support,discrepancy,5
+customer service,reporting,5
+customer service,clickup,5
+general inquiry,encryption,5
+returns and exchanges,database,5
+returns and exchanges,payment,5
+technical support,customization,5
+returns and exchanges,project,5
+technical support,user interface,5
+human resources,digital,5
+customer service,elasticsearch,5
+customer service,design,5
+customer service,social media,5
+customer service,confidentiality,5
+it support,sync,5
+customer service,connection,5
+technical support,upload,5
+it support,plugin,5
+it support,firewall,5
+service outages and maintenance,connectivity,5
+it support,dashboard,5
+sales and pre-sales,medical,5
+customer service,accesscontrols,5
+product support,protection,5
+returns and exchanges,branding,5
+customer service,recommendation,5
+billing and payments,transmission,5
+sales and pre-sales,optimization,5
+it support,infrastructure,5
+customer service,contentmarketing,5
+customer service,request,5
+human resources,medical,5
+returns and exchanges,data,5
+product support,application,5
+product support,contentmarketing,5
+product support,seo,5
+sales and pre-sales,onboarding,5
+billing and payments,collaboration,5
+service outages and maintenance,database,5
+billing and payments,digital marketing,5
+it support,hipaa,5
+product support,verification,5
+general inquiry,communication,5
+technical support,protection,5
+technical support,code,5
+product support,campaigns,5
+billing and payments,automation,5
+general inquiry,enhancement,5
+general inquiry,engagement,4
+technical support,git,4
+it support,dataanalytics,4
+billing and payments,urgent,4
+it support,content,4
+billing and payments,paypal,4
+billing and payments,aws,4
+billing and payments,unexpected,4
+customer service,quickbooks,4
+product support,device,4
+sales and pre-sales,server,4
+product support,outdated,4
+customer service,device,4
+customer service,log,4
+service outages and maintenance,digital,4
+sales and pre-sales,login,4
+customer service,risk,4
+sales and pre-sales,recovery,4
+it support,protocol,4
+customer service,mailchimp,4
+technical support,change,4
+product support,healthcare,4
+product support,timeline,4
+technical support,deployment,4
+billing and payments,availability,4
+technical support,overload,4
+it support,brand,4
+billing and payments,protocol,4
+human resources,compliance,4
+billing and payments,antivirus,4
+product support,portfolio,4
+technical support,kubernetes,4
+it support,recommendation,4
+product support,userexperience,4
+technical support,clickup,4
+returns and exchanges,projectmanagement,4
+returns and exchanges,inquiry,4
+technical support,gaming,4
+service outages and maintenance,configuration,4
+customer service,ad,4
+it support,laptop,4
+general inquiry,login,4
+technical support,import,4
+customer service,git,4
+technical support,sql,4
+technical support,verification,4
+service outages and maintenance,implementation,4
+service outages and maintenance,storage,4
+it support,productivity,4
+product support,matlab,4
+product support,taskmanagement,4
+technical support,availability,4
+billing and payments,growth,4
+returns and exchanges,recovery,4
+returns and exchanges,outdated,4
+service outages and maintenance,solution,4
+billing and payments,system,4
+human resources,branding,4
+product support,firewall,4
+customer service,segmentation,4
+customer service,plugin,4
+it support,verification,4
+product support,service,4
+sales and pre-sales,portfolio,4
+billing and payments,license,4
+customer service,meeting,4
+billing and payments,fees,4
+returns and exchanges,pricing,4
+general inquiry,tools,4
+technical support,macbook,4
+human resources,investment,4
+technical support,help,4
+customer service,detail,4
+technical support,logs,4
+customer service,automation,4
+customer service,excel,4
+product support,content,4
+product support,accuracy,4
+customer service,team,4
+customer service,protocol,4
+service outages and maintenance,router,4
+service outages and maintenance,alert,4
+product support,tools,4
+returns and exchanges,docker,4
+it support,antivirus,4
+technical support,specification,4
+service outages and maintenance,problem,4
+general inquiry,cybersecurity,4
+returns and exchanges,messaging,4
+technical support,erp,4
+billing and payments,invoicing,4
+service outages and maintenance,plugin,4
+customer service,syncing,4
+product support,branding,4
+billing and payments,tool,4
+billing and payments,onboarding,4
+it support,log,4
+customer service,e-commerce,4
+technical support,campaigns,4
+product support,conflict,4
+it support,firmware,4
+technical support,prevention,4
+technical support,metric,4
+billing and payments,elasticsearch,4
+returns and exchanges,enhancement,4
+sales and pre-sales,content,4
+technical support,content,4
+customer service,development,4
+product support,digitalmarketing,4
+customer service,forecast,4
+service outages and maintenance,urgent,4
+it support,accesscontrol,4
+returns and exchanges,server,4
+billing and payments,credit card,4
+customer service,returns,4
+returns and exchanges,socialmedia,4
+technical support,algorithm,4
+customer service,discrepancy,4
+billing and payments,creditcard,4
+it support,problem,4
+product support,user experience,4
+billing and payments,problem,4
+customer service,setup,4
+it support,launch,4
+sales and pre-sales,inquiry,4
+product support,algorithm,4
+customer service,browser,4
+product support,confidentiality,4
+product support,platform,4
+technical support,user experience,4
+returns and exchanges,reporting,4
+product support,social media,4
+customer service,pricing,4
+sales and pre-sales,saas,4
+technical support,datum,4
+technical support,urgency,4
+product support,patient,4
+sales and pre-sales,project,4
+product support,airtable,4
+technical support,advertising,4
+product support,call,4
+customer service,socialmediamarketing,4
+customer service,airtable,4
+technical support,ubuntu,4
+it support,laravel,4
+technical support,socialmediamanagement,4
+it support,tools,4
+billing and payments,health,4
+general inquiry,analysis,3
+customer service,tracking,3
+returns and exchanges,backup,3
+service outages and maintenance,squarespace,3
+technical support,digitalstrategy,3
+technical support,emailmarketing,3
+billing and payments,online,3
+billing and payments,tools,3
+customer service,connectivity,3
+product support,permission,3
+technical support,ad,3
+it support,convenience,3
+it support,service,3
+it support,clickup,3
+service outages and maintenance,campaign,3
+returns and exchanges,workflow,3
+product support,connectivity,3
+technical support,recommendation,3
+service outages and maintenance,collaboration,3
+human resources,update,3
+technical support,query,3
+product support,e-commerce,3
+sales and pre-sales,healthcare,3
+product support,socialmediamarketing,3
+sales and pre-sales,access,3
+billing and payments,credit cards,3
+sales and pre-sales,macos,3
+technical support,data analytics,3
+billing and payments,warranty,3
+it support,analysis,3
+technical support,indexing,3
+technical support,outdated software,3
+customer service,azure,3
+technical support,patch,3
+customer service,permissions,3
+product support,task management,3
+technical support,aws,3
+technical support,app,3
+customer service,incompatibility,3
+general inquiry,improvement,3
+technical support,order,3
+product support,inquiry,3
+sales and pre-sales,hospital,3
+it support,malware,3
+human resources,information,3
+technical support,bitbucket,3
+product support,setup,3
+product support,real-time,3
+technical support,protocol,3
+technical support,visualization,3
+general inquiry,userexperience,3
+billing and payments,device,3
+product support,logs,3
+returns and exchanges,fee,3
+sales and pre-sales,adjustment,3
+billing and payments,riskmanagement,3
+sales and pre-sales,brand,3
+customer service,machinelearning,3
+product support,launch,3
+general inquiry,accesscontrol,3
+technical support,xero,3
+billing and payments,option,3
+billing and payments,management,3
+general inquiry,discussion,3
+it support,expansion,3
+returns and exchanges,service,3
+product support,connection,3
+returns and exchanges,tools,3
+product support,pricing,3
+human resources,discussion,3
+sales and pre-sales,onlinepresence,3
+customer service,general,3
+product support,hospital,3
+technical support,delay,3
+it support,user experience,3
+customer service,driver,3
+returns and exchanges,information,3
+general inquiry,update,3
+customer service,erp,3
+general inquiry,projectmanagement,3
+technical support,data loss,3
+customer service,jira,3
+human resources,flexiblescheduling,3
+it support,webinar,3
+it support,billing,3
+technical support,meeting,3
+sales and pre-sales,customerinteraction,3
+billing and payments,authentication,3
+sales and pre-sales,accesscontrol,3
+returns and exchanges,conflict,3
+customer service,change,3
+product support,redis,3
+billing and payments,customer support,3
+sales and pre-sales,discussion,3
+service outages and maintenance,outdated,3
+technical support,disappearance,3
+billing and payments,explanation,3
+sales and pre-sales,socialmedia,3
+customer service,budgeting,3
+customer service,technology,3
+sales and pre-sales,customization,3
+technical support,scanner,3
+general inquiry,urgent,3
+service outages and maintenance,workflow,3
+returns and exchanges,alignment,3
+product support,technology,3
+it support,tracking,3
+general inquiry,machinelearning,3
+human resources,policy,3
+product support,advice,3
+billing and payments,accesscontrols,3
+returns and exchanges,troubleshooting,3
+it support,linux,3
+technical support,firebase,3
+it support,permission,3
+billing and payments,clarification,3
+product support,mongodb,3
+it support,scanner,3
+billing and payments,overcharge,3
+human resources,encryption,3
+sales and pre-sales,dashboard,3
+general inquiry,integrity,3
+technical support,advice,3
+billing and payments,datum,3
+sales and pre-sales,analysis,3
+product support,magento,3
+returns and exchanges,services,3
+returns and exchanges,seo,3
+it support,timeline,3
+customer service,windows,3
+sales and pre-sales,synchronization,3
+billing and payments,api,3
+service outages and maintenance,integrity,3
+product support,version,3
+sales and pre-sales,vulnerability,3
+it support,equipment,3
+human resources,backup,3
+service outages and maintenance,error,3
+technical support,zoom,3
+sales and pre-sales,collaboration,3
+product support,targetaudience,3
+service outages and maintenance,discussion,3
+service outages and maintenance,api,3
+billing and payments,detail,3
+technical support,dependency,3
+product support,scalability,3
+customer service,health,3
+general inquiry,medical,3
+billing and payments,banktransfer,3
+it support,team,3
+customer service,teamwork,3
+it support,help,3
+service outages and maintenance,system,3
+technical support,certification,3
+product support,dependency,3
+service outages and maintenance,productivity,3
+customer service,outdated,3
+billing and payments,offer,3
+service outages and maintenance,deployment,3
+general inquiry,investigation,3
+billing and payments,hospital,3
+customer service,management,3
+it support,general,3
+technical support,launch,3
+it support,sap,3
+it support,crm,3
+technical support,diagnosis,3
+product support,webex,3
+billing and payments,financing,3
+product support,smart türschloss,3
+sales and pre-sales,alert,3
+it support,cassandra,3
+sales and pre-sales,jira,3
+service outages and maintenance,hipaa,3
+it support,cost,3
+billing and payments,routine,3
+service outages and maintenance,tools,3
+technical support,softwareconflict,3
+technical support,digitalcampaign,3
+product support,expansion,3
+service outages and maintenance,dashboard,3
+billing and payments,projectmanagement,3
+returns and exchanges,discrepancy,3
+technical support,node.js,3
+it support,multilingual,3
+customer service,desktop,3
+billing and payments,troubleshooting,3
+returns and exchanges,accesscontrol,3
+sales and pre-sales,protection,3
+it support,informationrequest,3
+technical support,digitalcampaigns,3
+general inquiry,investment,3
+it support,user interface,3
+it support,health,3
+product support,outdated software,3
+billing and payments,nas,3
+returns and exchanges,targeting,3
+sales and pre-sales,improvement,3
+technical support,azure,3
+technical support,datavisualization,3
+returns and exchanges,error,3
+general inquiry,social media,3
+customer service,information request,3
+customer service,password,3
+billing and payments,reconciliation,3
+technical support,cybersecurity,3
+technical support,version,3
+billing and payments,wordpress,3
+it support,redis,3
+it support,airtable,3
+it support,wordpress,3
+product support,patientdata,3
+technical support,traffic,3
+it support,azure,3
+returns and exchanges,quickbooks,3
+product support,incompatible,3
+it support,system,3
+technical support,ressource,3
+technical support,consultation,3
+customer service,budget,3
+service outages and maintenance,digitalmarketing,3
+human resources,remotework,3
+product support,dataloss,3
+technical support,tech,3
+product support,zapier,3
+it support,portfolio,3
+customer service,mysql,3
+billing and payments,glitch,3
+it support,userexperience,3
+human resources,recovery,3
+billing and payments,socialmedia,3
+it support,socialmedia,3
+billing and payments,scanner,3
+service outages and maintenance,log,3
+sales and pre-sales,laravel,2
+customer service,control,2
+billing and payments,security breach,2
+it support,call,2
+product support,vulnerability,2
+billing and payments,duplicate,2
+customer service,hr,2
+product support,riskassessment,2
+billing and payments,price,2
+product support,functionality,2
+billing and payments,datavisualization,2
+it support,deployment,2
+customer service,sign,2
+service outages and maintenance,real-time,2
+billing and payments,portfoliodiversification,2
+product support,google keep,2
+billing and payments,call,2
+it support,tutorial,2
+product support,roi,2
+customer service,upgrade,2
+technical support,awareness,2
+general inquiry,alert,2
+it support,insights,2
+billing and payments,change,2
+it support,formatting,2
+technical support,forecasting,2
+returns and exchanges,conversion,2
+product support,budget,2
+sales and pre-sales,data,2
+technical support,forecast,2
+billing and payments,invoices,2
+customer service,plan,2
+technical support,e-commerce,2
+returns and exchanges,data analytics,2
+service outages and maintenance,feed,2
+customer service,trends,2
+returns and exchanges,ubuntu,2
+returns and exchanges,healthcare,2
+product support,ios,2
+billing and payments,digitalmarketingservices,2
+technical support,adobeaudition,2
+customer service,progress tracking,2
+product support,teamkollaboration,2
+technical support,machinelearning,2
+customer service,cooperation,2
+product support,detail,2
+customer service,vr-headsets,2
+product support,metric,2
+technical support,filecorruption,2
+service outages and maintenance,hr,2
+technical support,coding,2
+product support,digitalcampaign,2
+it support,saas,2
+service outages and maintenance,firewall,2
+general inquiry,authentication,2
+technical support,management,2
+product support,jenkins,2
+returns and exchanges,employee,2
+product support,prognosis,2
+technical support,visibility,2
+customer service,delay,2
+it support,docker,2
+technical support,products,2
+customer service,prevention,2
+billing and payments,bank transfers,2
+it support,application,2
+customer service,inconsistency,2
+customer service,pdffiller,2
+customer service,quickbooksonline,2
+product support,integrity,2
+customer service,cloud,2
+billing and payments,server,2
+technical support,data protection,2
+returns and exchanges,requirement,2
+it support,cybersecurity,2
+product support,datum,2
+customer service,urgency,2
+technical support,portfoliooptimization,2
+it support,router,2
+sales and pre-sales,website,2
+technical support,microsoft azure,2
+customer service,code,2
+sales and pre-sales,social,2
+human resources,routine,2
+returns and exchanges,adjustment,2
+technical support,sqlserver,2
+product support,meeting,2
+general inquiry,confidentiality,2
+human resources,database,2
+general inquiry,order,2
+product support,macos,2
+customer service,softwareupdate,2
+product support,query,2
+technical support,intellij,2
+it support,live stream,2
+customer service,saperp,2
+technical support,wordpress,2
+returns and exchanges,integrity,2
+technical support,airtable,2
+it support,magento,2
+customer service,data analytics,2
+customer service,cashflow,2
+billing and payments,taxefficiency,2
+returns and exchanges,team,2
+it support,emailmarketing,2
+technical support,disparity,2
+billing and payments,mysql,2
+customer service,ibm cloud,2
+product support,investmentoptimization,2
+product support,rapidminer,2
+billing and payments,employee,2
+technical support,tensorflow,2
+technical support,monitors,2
+returns and exchanges,implementation,2
+sales and pre-sales,tools,2
+general inquiry,control,2
+product support,prediction,2
+sales and pre-sales,service,2
+customer service,threatdetection,2
+product support,glitch,2
+customer service,personalization,2
+technical support,adblocking,2
+customer service,accounting,2
+technical support,django,2
+human resources,digitalmarketing,2
+technical support,nodejs,2
+customer service,firewall,2
+service outages and maintenance,customization,2
+returns and exchanges,configuration,2
+general inquiry,digitalcampaigns,2
+it support,python,2
+billing and payments,bank,2
+billing and payments,safety,2
+technical support,infrastructure,2
+sales and pre-sales,partnership,2
+general inquiry,virus,2
+customer service,socialmediamanagement,2
+technical support,dns,2
+customer service,digitalcampaign,2
+billing and payments,implementation,2
+general inquiry,evaluation,2
+technical support,unauthorizedaccess,2
+sales and pre-sales,firewall,2
+product support,ad,2
+customer service,security protocols,2
+product support,tracking,2
+sales and pre-sales,antivirus,2
+product support,salesforce,2
+returns and exchanges,contentcreation,2
+billing and payments,accounting,2
+billing and payments,adobe sign,2
+product support,recommendation,2
+customer service,digitalstrategy,2
+product support,safety,2
+service outages and maintenance,vulnerability,2
+billing and payments,guidelines,2
+it support,navigation,2
+it support,onlinepresence,2
+product support,setting,2
+returns and exchanges,accesscontrols,2
+human resources,reporting,2
+it support,switch,2
+human resources,investigation,2
+billing and payments,dataprotection,2
+human resources,analysis,2
+product support,syncing,2
+product support,monitoring,2
+customer service,setting,2
+it support,macbook,2
+billing and payments,help,2
+product support,nzxt,2
+technical support,informationrequest,2
+technical support,shopware,2
+human resources,recruitment,2
+billing and payments,validation,2
+returns and exchanges,upgrade,2
+it support,transfer,2
+sales and pre-sales,authorization,2
+customer service,informationsecurity,2
+returns and exchanges,customer support,2
+returns and exchanges,pytorch,2
+sales and pre-sales,efficiency,2
+billing and payments,microsoft,2
+human resources,safety,2
+product support,conversion,2
+technical support,adobesign,2
+returns and exchanges,functionality,2
+product support,inaccuracy,2
+technical support,nighttime,2
+it support,response,2
+sales and pre-sales,adcontent,2
+customer service,ibmcloud,2
+it support,datasecurity,2
+technical support,process,2
+service outages and maintenance,enhancement,2
+returns and exchanges,budget,2
+technical support,scalability,2
+technical support,monitor,2
+it support,control,2
+general inquiry,accesscontrols,2
+sales and pre-sales,services,2
+sales and pre-sales,informationrequest,2
+technical support,datamigration,2
+billing and payments,flexibility,2
+product support,overheating,2
+product support,informationrequest,2
+customer service,efficiency,2
+sales and pre-sales,log,2
+billing and payments,brand,2
+customer service,process,2
+product support,knime,2
+billing and payments,adjustment,2
+technical support,quickbooks,2
+human resources,engagement,2
+product support,health,2
+customer service,vr,2
+sales and pre-sales,business,2
+product support,softwareintegration,2
+general inquiry,tech,2
+it support,detail,2
+customer service,ppc,2
+product support,adobecreativecloud,2
+customer service,taskmanagement,2
+returns and exchanges,availability,2
+billing and payments,compatibility,2
+billing and payments,dataanalytics,2
+product support,process,2
+billing and payments,assurance,2
+technical support,finance,2
+customer service,informationrequest,2
+service outages and maintenance,access,2
+it support,googlecloudplatform,2
+sales and pre-sales,conversion,2
+sales and pre-sales,malware,2
+technical support,concern,2
+technical support,expensetracking,2
+service outages and maintenance,alteryx,2
+general inquiry,lead,2
+billing and payments,docker,2
+customer service,partnership,2
+returns and exchanges,antivirus,2
+billing and payments,general,2
+product support,adcreative,2
+product support,budgetallocation,2
+customer service,firebase,2
+technical support,syncing,2
+technical support,desktop,2
+product support,oracle,2
+technical support,sql server,2
+customer service,digital campaign,2
+customer service,digital marketing,2
+technical support,glitch,2
+technical support,"technical,customer,product,feedback,bug,documentation,resolution",2
+technical support,discord,2
+service outages and maintenance,transmission,2
+returns and exchanges,confidentiality,2
+it support,import,2
+technical support,agency,2
+returns and exchanges,routine,2
+returns and exchanges,adplacement,2
+billing and payments,unauthorized,2
+customer service,oracle,2
+it support,healthcare,2
+it support,hospital,2
+product support,forecasting,2
+customer service,data analysis,2
+sales and pre-sales,authentication,2
+general inquiry,campaign,2
+sales and pre-sales,redis,2
+general inquiry,algorithm,2
+billing and payments,duplicatesubscriptions,2
+general inquiry,routine,2
+product support,model,2
+general inquiry,hospital,2
+billing and payments,consultation,2
+customer service,datum,2
+customer service,electronics,2
+technical support,model,2
+technical support,downtime,2
+customer service,brand growth,2
+billing and payments,international,2
+general inquiry,troubleshooting,2
+customer service,qnap,2
+human resources,tool,2
+customer service,redis,2
+billing and payments,payment plan,2
+customer service,evernote,2
+technical support,saperp,2
+it support,repair,2
+general inquiry,notification,2
+customer service,datavisualization,2
+customer service,onenote,2
+product support,accessibility,2
+technical support,equipment,2
+technical support,password,2
+human resources,webdevelopment,2
+billing and payments,malfunction,2
+customer service,productivity,2
+customer service,tutorial,2
+it support,vulnerability,2
+human resources,discrepancy,2
+billing and payments,patientdata,2
+sales and pre-sales,adobe,2
+technical support,invoicing,2
+customer service,system requirement,2
+technical support,third-party,2
+human resources,data loss,2
+customer service,nuendo,2
+returns and exchanges,contentmarketing,2
+billing and payments,information request,2
+it support,password,2
+sales and pre-sales,projectmanagement,2
+it support,action,2
+customer service,nas,2
+customer service,awareness,2
+billing and payments,indexing,2
+service outages and maintenance,analysis,2
+human resources,workflow,2
+product support,sap_erp,2
+returns and exchanges,cancellation,2
+it support,credentials,2
+billing and payments,data analytics,2
+sales and pre-sales,budget,2
+technical support,matlab,2
+returns and exchanges,channel,2
+customer service,influencer,2
+sales and pre-sales,targeting,2
+it support,device,2
+technical support,moodle,2
+sales and pre-sales,error,2
+technical support,microsoft teams,2
+billing and payments,inaccuracy,2
+customer service,signal,2
+product support,sensitivity,2
+billing and payments,discounts,2
+product support,portfoliomanagement,2
+billing and payments,onlinepresence,2
+returns and exchanges,promptness,2
+billing and payments,xero,2
+returns and exchanges,recommendation,2
+customer service,planning,2
+general inquiry,availability,2
+it support,credential,2
+customer service,security software,2
+it support,platform,2
+it support,order,2
+customer service,data loss,2
+technical support,ifttt,2
+billing and payments,longtermagreement,2
+technical support,loss,2
+product support,aws,2
+product support,mobile,2
+customer service,android,2
+it support,transmission,2
+customer service,datafeed,2
+product support,microsoft,2
+product support,help,2
+it support,usergeneratedcontent,2
+technical support,document,2
+product support,hadoop,2
+customer service,contentcreation,2
+human resources,data,2
+customer service,task assignment,2
+customer service,crm,2
+product support,general,2
+billing and payments,alternative,2
+returns and exchanges,exchange,2
+technical support,software integration,2
+customer service,sap,2
+human resources,inkscape,2
+technical support,inboundmarketing,2
+it support,dataanalysis,2
+sales and pre-sales,slack,2
+technical support,ecommerce,2
+billing and payments,sync,2
+customer service,system requirements,2
+it support,online,2
+technical support,expressjs,2
+it support,firebase,2
+technical support,safety,2
+it support,reporting,2
+technical support,zapier,2
+billing and payments,kubernetes,2
+returns and exchanges,sync,2
+service outages and maintenance,credential,2
+general inquiry,growth,2
+human resources,curriculum,2
+technical support,scan,2
+service outages and maintenance,protection,2
+general inquiry,change,2
+it support,bitrate,2
+product support,guidelines,2
+billing and payments,driver,2
+billing and payments,postgresql,2
+sales and pre-sales,routine,2
+billing and payments,financial,2
+product support,schedule,2
+returns and exchanges,target,2
+technical support,android,2
+customer service,user experience,2
+product support,software update,2
+it support,softwareconflict,2
+technical support,datafeed,2
+product support,xero,2
+human resources,productivity,2
+technical support,hadoop,2
+product support,onlinepresence,2
+billing and payments,reporting,2
+returns and exchanges,partnership,2
+billing and payments,ibm,2
+technical support,accesscontrols,2
+customer service,unauthorized access,2
+billing and payments,longtermcommitment,2
+product support,tech,2
+customer service,sage,2
+technical support,express.js,2
+customer service,antivirus,2
+technical support,format,2
+billing and payments,bank transfer,2
+technical support,immediate,2
+customer service,verification,2
+customer service,microsoft,2
+customer service,influencermarketing,2
+customer service,coordination,2
+customer service,solution,2
+product support,ansible,2
+human resources,collaboration,2
+it support,slowdown,2
+billing and payments,finance,2
+product support,transfer,2
+customer service,logs,2
+product support,development,2
+customer service,diagnosis,2
+sales and pre-sales,team,2
+general inquiry,socialmedia,2
+product support,asana,2
+technical support,systems,2
+returns and exchanges,dataanalysis,2
+customer service,unauthorized,2
+service outages and maintenance,confidentiality,2
+billing and payments,spss,2
+it support,github,2
+service outages and maintenance,project,2
+returns and exchanges,webhooks,1
+customer service,contentstrategy,1
+customer service,online visibility,1
+returns and exchanges,plugin,1
+it support,documentations,1
+general inquiry,email marketing,1
+technical support,mac,1
+technical support,brandgrowth,1
+product support,"technical,customer,integration,problem,solution",1
+billing and payments,customer service,1
+general inquiry,airtable,1
+general inquiry,website,1
+returns and exchanges,datenverstoß,1
+returns and exchanges,discord,1
+customer service,outcomes,1
+returns and exchanges,portfolio,1
+customer service,mondaycom,1
+general inquiry,digital,1
+sales and pre-sales,browser,1
+it support,live-stream,1
+human resources,redis,1
+customer service,document,1
+customer service,teamefficiency,1
+it support,visibility,1
+customer service,microsoft onenote,1
+technical support,translation,1
+returns and exchanges,dashboard,1
+human resources,patient,1
+returns and exchanges,glitch,1
+human resources,growth,1
+general inquiry,brand growth,1
+billing and payments,licensing,1
+service outages and maintenance,dataloss,1
+technical support,kvm,1
+customer service,diversification,1
+human resources,improvement,1
+product support,datatransfer,1
+customer service,visualstudiocode,1
+customer service,requirements,1
+technical support,incompatible plugin,1
+service outages and maintenance,contact information,1
+technical support,decision,1
+billing and payments,jenkins,1
+sales and pre-sales,revision,1
+product support,consistency,1
+billing and payments,products,1
+technical support,audio,1
+service outages and maintenance,cache,1
+human resources,datavisualization,1
+service outages and maintenance,processing,1
+customer service,best practices,1
+general inquiry,information,1
+billing and payments,payment method,1
+it support,compatibilities,1
+billing and payments,interference,1
+customer service,next step,1
+customer service,crashing,1
+customer service,schedule,1
+billing and payments,contentcreation,1
+it support,note,1
+human resources,change,1
+technical support,experience,1
+customer service,real-time,1
+human resources,call,1
+technical support,cost,1
+billing and payments,jira,1
+it support,digitalcampaign,1
+customer service,informationstorage,1
+product support,dataprotection,1
+returns and exchanges,dataencryption,1
+technical support,"documentation,incident",1
+customer service,hardwareconflict,1
+product support,innovation,1
+product support,contentmismatch,1
+product support,ifttt,1
+technical support,redis,1
+product support,advertising,1
+technical support,accessibility,1
+customer service,subscription,1
+general inquiry,taskdelegation,1
+returns and exchanges,dataanalytics,1
+billing and payments,forecasting,1
+technical support,correction,1
+billing and payments,information security,1
+technical support,success,1
+returns and exchanges,visualization,1
+human resources,connection,1
+it support,upload,1
+returns and exchanges,content,1
+it support,availability,1
+returns and exchanges,plan,1
+sales and pre-sales,enhancement,1
+technical support,module,1
+sales and pre-sales,mongodb,1
+product support,customerinteraction,1
+product support,decision-making,1
+customer service,timeline,1
+human resources,campaign,1
+it support,softwareasaservice,1
+billing and payments,smarthome,1
+returns and exchanges,protocol,1
+product support,drupal,1
+customer service,strategyupdate,1
+billing and payments,creativecloud,1
+technical support,formatting,1
+customer service,customizable,1
+technical support,"technical,customer,plugin,bug,synchronization,guidance",1
+sales and pre-sales,access controls,1
+it support,regulations,1
+returns and exchanges,assurance,1
+returns and exchanges,datenverlust,1
+technical support,datatracking,1
+sales and pre-sales,overload,1
+human resources,workshop,1
+product support,progress,1
+product support,goal,1
+it support,forecasting,1
+billing and payments,amount,1
+service outages and maintenance,dataprocessing,1
+service outages and maintenance,web,1
+customer service,onlinepresence,1
+billing and payments,branding,1
+it support,branding,1
+general inquiry,mongodb,1
+technical support,campaignanalysis,1
+sales and pre-sales,taskdelegation,1
+it support,adobeaftereffects,1
+general inquiry,call,1
+technical support,microsoft_azure,1
+product support,security measures,1
+it support,postgresql,1
+sales and pre-sales,payment,1
+product support,revenue,1
+billing and payments,setting,1
+human resources,enhancement,1
+technical support,switch,1
+service outages and maintenance,emailmarketing,1
+customer service,timing,1
+technical support,loading,1
+customer service,navigation,1
+returns and exchanges,firewall,1
+customer service,github,1
+it support,repository,1
+it support,system configuration,1
+customer service,onrails,1
+product support,kit,1
+it support,load time,1
+customer service,teammeeting,1
+human resources,telecom,1
+returns and exchanges,task,1
+sales and pre-sales,social media,1
+product support,requirements,1
+service outages and maintenance,safety,1
+customer service,guidelines,1
+billing and payments,visibility,1
+product support,"technical,customer,integration,bug,zapier",1
+customer service,dataprotection,1
+product support,norton,1
+product support,code,1
+technical support,businessdevelopment,1
+it support,course,1
+product support,datalocking,1
+product support,urgency,1
+customer service,audits,1
+customer service,joomla,1
+product support,customizable,1
+product support,equipment,1
+general inquiry,database,1
+customer service,advertising,1
+billing and payments,"promotion,rabatte,diienstleistung",1
+technical support,productivity,1
+customer service,return,1
+service outages and maintenance,patient,1
+billing and payments,rolebasedaccesscontrol,1
+human resources,express.js,1
+technical support,insight,1
+customer service,logging,1
+returns and exchanges,malfunction,1
+billing and payments,portfoliomanagement,1
+service outages and maintenance,capacity,1
+it support,unverschlüsseltes,1
+technical support,email,1
+general inquiry,protection,1
+service outages and maintenance,organization,1
+product support,evaluation,1
+it support,diagnosis,1
+technical support,patientrecords,1
+sales and pre-sales,medicaldatum,1
+product support,unsuccessful,1
+customer service,zoho,1
+billing and payments,data integrity,1
+billing and payments,unusual charges,1
+customer service,portfolio optimization,1
+customer service,firmware,1
+technical support,phone,1
+service outages and maintenance,redis,1
+customer service,demonstration,1
+technical support,e-marketing,1
+product support,datatracking,1
+technical support,drupal,1
+customer service,patientinformation,1
+product support,data tracking,1
+sales and pre-sales,strategyupdate,1
+customer service,email marketing,1
+sales and pre-sales,datum,1
+sales and pre-sales,decisionmaking,1
+sales and pre-sales,joomla,1
+billing and payments,vulnerability,1
+it support,high traffic,1
+technical support,debian,1
+technical support,livestream,1
+technical support,interview,1
+general inquiry,tool,1
+sales and pre-sales,information request,1
+service outages and maintenance,zoho books,1
+general inquiry,incompatibility,1
+customer service,ruby,1
+returns and exchanges,development,1
+technical support,digital campaigns,1
+returns and exchanges,"technical,customer,bug,software,outage,hardware,resolution",1
+customer service,norton360,1
+product support,"technical,crash,campaign,resolution,urgent",1
+technical support,controls,1
+technical support,macos,1
+general inquiry,dataprotection,1
+customer service,communitybuilding,1
+technical support,"technical,bug,security,crash,documentation,guidance",1
+customer service,decision_making,1
+service outages and maintenance,key,1
+technical support,"technical,bug,crash,hardware",1
+human resources,projectmanagement,1
+service outages and maintenance,finance,1
+product support,good,1
+returns and exchanges,control,1
+customer service,engine,1
+human resources,skills,1
+customer service,sqlserver,1
+technical support,credentials,1
+it support,onlinevisibility,1
+human resources,inquiry,1
+customer service,call,1
+technical support,tooling,1
+human resources,morale,1
+customer service,effective,1
+human resources,incompatibility,1
+returns and exchanges,datavirtualization,1
+customer service,views,1
+service outages and maintenance,call,1
+technical support,troubleshoot,1
+service outages and maintenance,onboarding,1
+technical support,private,1
+product support,change,1
+technical support,serverresource,1
+customer service,gitlab,1
+technical support,joomla,1
+customer service,studentengagement,1
+billing and payments,unexplained,1
+product support,datavisualization,1
+technical support,proxies,1
+customer service,software conflicts,1
+billing and payments,demo,1
+customer service,cleanup,1
+product support,initialization,1
+returns and exchanges,policy,1
+customer service,security breach,1
+it support,night,1
+returns and exchanges,timetracking,1
+sales and pre-sales,api,1
+product support,productivity,1
+technical support,plugins,1
+product support,brand growth,1
+general inquiry,strategydiscussion,1
+customer service,smoothexperience,1
+it support,incompatible,1
+technical support,stability,1
+customer service,minimum requirement,1
+product support,azure,1
+returns and exchanges,e-commerce,1
+billing and payments,medicaldevices,1
+product support,social,1
+technical support,decisionmaking,1
+product support,website,1
+sales and pre-sales,progressmonitoring,1
+returns and exchanges,outcome,1
+sales and pre-sales,description,1
+technical support,resources,1
+product support,practice,1
+returns and exchanges,abnormal,1
+billing and payments,procedure,1
+sales and pre-sales,datavisualization,1
+billing and payments,woocommerce,1
+customer service,digitalpresence,1
+returns and exchanges,report,1
+service outages and maintenance,scalability,1
+customer service,interview,1
+technical support,socialmediamarketing,1
+customer service,cisco,1
+product support,information request,1
+human resources,cost,1
+service outages and maintenance,seo,1
+it support,nuendo,1
+technical support,capacity,1
+technical support,"technical,customer,documentation,guidance",1
+product support,"technical,customer,bug,integration,wordpress,elasticsearch,disruption,resolution",1
+returns and exchanges,brand,1
+technical support,adblocker,1
+returns and exchanges,java,1
+returns and exchanges,goals,1
+sales and pre-sales,system,1
+product support,subscription,1
+technical support,tutorial,1
+product support,simulink,1
+product support,action,1
+customer service,model,1
+technical support,compatibilityissues,1
+sales and pre-sales,task management,1
+general inquiry,cassandra,1
+technical support,sdk,1
+sales and pre-sales,productivity,1
+customer service,visual studio code,1
+product support,spending,1
+returns and exchanges,datamodels,1
+sales and pre-sales,seo,1
+it support,teamsuggestion,1
+it support,logs,1
+product support,confirmation,1
+service outages and maintenance,datavisualization,1
+technical support,protocols,1
+product support,firmware,1
+technical support,dataimport,1
+human resources,software applications,1
+customer service,sage accounting,1
+customer service,inaccuracy,1
+it support,resource,1
+customer service,audience,1
+general inquiry,campagnenmanagement,1
+technical support,efficiency,1
+product support,keras,1
+technical support,videomeetings,1
+billing and payments,sensitivity,1
+customer service,regulation,1
+service outages and maintenance,information,1
+product support,reference number,1
+product support,campaignperformance,1
+technical support,dataissue,1
+technical support,failure,1
+it support,projector,1
+customer service,safeguard,1
+billing and payments,online payment platform,1
+billing and payments,user,1
+billing and payments,resource,1
+customer service,advertisement,1
+sales and pre-sales,softwareintegration,1
+it support,adobeaudition,1
+product support,predictive analytics,1
+customer service,ressourcemanagement,1
+technical support,outreach,1
+service outages and maintenance,change,1
+customer service,evaluation,1
+technical support,exact step,1
+technical support,softwareintegration,1
+product support,software as a service,1
+returns and exchanges,incompatible,1
+sales and pre-sales,scalability,1
+billing and payments,overbilling,1
+sales and pre-sales,targetaudience,1
+it support,returns,1
+customer service,serverlog,1
+returns and exchanges,microsoftdynamics365,1
+sales and pre-sales,phone call,1
+product support,interaction,1
+technical support,quote,1
+returns and exchanges,hr,1
+returns and exchanges,vulnerability,1
+technical support,software conflict,1
+sales and pre-sales,crashes,1
+human resources,expressjs,1
+returns and exchanges,authentication,1
+billing and payments,security compliance,1
+customer service,underperformance,1
+service outages and maintenance,improvement,1
+billing and payments,highnetworth,1
+customer service,"slow,growth,strategy,improvement,issue,solution,performance",1
+it support,eclipse ide,1
+billing and payments,response,1
+billing and payments,conflict,1
+billing and payments,prompt,1
+sales and pre-sales,request,1
+billing and payments,control,1
+general inquiry,employee,1
+billing and payments,multiple,1
+customer service,serverlogs,1
+customer service,trouble,1
+billing and payments,callscheduling,1
+billing and payments,learning,1
+technical support,firmware,1
+customer service,businessintelligence,1
+sales and pre-sales,regulation,1
+service outages and maintenance,meeting,1
+it support,cloud,1
+billing and payments,onlinezahlung,1
+billing and payments,inconsistency,1
+customer service,scalability,1
+it support,"technical,bug,documentation,feedback",1
+general inquiry,smartdevices,1
+it support,secure,1
+technical support,safeguard,1
+sales and pre-sales,software as a service,1
+technical support,raid-controller,1
+technical support,regulation,1
+it support,campaigns,1
+technical support,inconsistencies,1
+technical support,pipeline,1
+it support,"technical,customer,bug,product,outage,resolution",1
+returns and exchanges,procedure,1
+service outages and maintenance,expire,1
+billing and payments,secure,1
+billing and payments,unforeseen charges,1
+service outages and maintenance,urgency,1
+customer service,outreach,1
+product support,android studio,1
+sales and pre-sales,interaction,1
+sales and pre-sales,riskmanagement,1
+technical support,microsoftoffice,1
+it support,integrity,1
+customer service,market trend,1
+product support,adcontent,1
+service outages and maintenance,credentials,1
+product support,cookie,1
+technical support,callarrange,1
+it support,analyticsinconsistency,1
+product support,dataprivacy,1
+billing and payments,team,1
+it support,usermanagement,1
+it support,plan,1
+technical support,modelcalibration,1
+human resources,sendgrid,1
+it support,trends,1
+general inquiry,wachstum,1
+returns and exchanges,windows,1
+product support,mailchimp,1
+product support,outreach,1
+customer service,softwareintegration,1
+returns and exchanges,adtargeting,1
+sales and pre-sales,elasticsearch,1
+it support,websiteoptimization,1
+product support,monitor,1
+customer service,authorization,1
+customer service,competitor,1
+it support,outdated firewall,1
+technical support,key,1
+technical support,outdateddependencies,1
+it support,multi-factor,1
+it support,records,1
+customer service,recommendations,1
+it support,digital tools,1
+product support,efficiency,1
+product support,request,1
+technical support,crash notification,1
+technical support,software compatibility,1
+customer service,multipleplatforms,1
+billing and payments,synchronisationsfehler,1
+technical support,confirmation,1
+service outages and maintenance,timeline,1
+technical support,data_source,1
+product support,raid,1
+service outages and maintenance,macos,1
+technical support,competition,1
+service outages and maintenance,accesscontrol,1
+technical support,editing,1
+product support,dataprocessing,1
+returns and exchanges,forecast,1
+it support,dataaccuracy,1
+general inquiry,risk,1
+it support,blockchain,1
+it support,campaign launch,1
+technical support,data transfer,1
+customer service,monitor,1
+billing and payments,payment option,1
+product support,insight,1
+technical support,assetrendering,1
+customer service,targetaudience,1
+human resources,system requirements,1
+service outages and maintenance,ubuntu,1
+billing and payments,pricingdetailsservice,1
+it support,kaspersky,1
+it support,"technical,customer,bug,hardware,security,virus,resolution,feedback",1
+customer service,emailcampaigns,1
+billing and payments,cloud,1
+billing and payments,plan,1
+technical support,scaling,1
+service outages and maintenance,notwendigkeit,1
+billing and payments,systems,1
+technical support,addins,1
+technical support,customer experience,1
+product support,ppc,1
+billing and payments,technical support,1
+product support,risk assessment,1
+technical support,data feeds,1
+product support,data visualization,1
+product support,web,1
+product support,tableau,1
+it support,riskanalysis,1
+customer service,teammanagement,1
+it support,bi,1
+it support,client,1
+billing and payments,banküberweisung,1
+it support,interface,1
+customer service,market analysis,1
+customer service,prediction,1
+technical support,macbookair,1
+technical support,commerce,1
+customer service,e-mail,1
+service outages and maintenance,financial,1
+customer service,scanner,1
+customer service,brandexpansion,1
+customer service,functionality,1
+customer service,realtimedata,1
+product support,dataupdate,1
+it support,change,1
+billing and payments,insights,1
+product support,realtimetracking,1
+technical support,devices,1
+technical support,license,1
+service outages and maintenance,digitalcampaigns,1
+technical support,procedure,1
+technical support,"technical,customer,bug,outage,resolution",1
+billing and payments,workflowautomation,1
+it support,asset,1
+technical support,databaseconnectivity,1
+general inquiry,smart devices,1
+sales and pre-sales,traffic,1
+technical support,market dynamics,1
+billing and payments,inconvenience,1
+technical support,caching,1
+technical support,campaignmanagement,1
+it support,recent,1
+returns and exchanges,datamigration,1
+product support,mcafee,1
+customer service,malfunction,1
+it support,security breach,1
+billing and payments,address,1
+billing and payments,improvement,1
+it support,datenauswertung,1
+product support,file,1
+customer service,task tracking,1
+general inquiry,contentcreation,1
+technical support,detection,1
+product support,adobe,1
+customer service,toolintegration,1
+technical support,microsoftazure,1
+technical support,softwareanforderung,1
+billing and payments,hubspot,1
+service outages and maintenance,privacy,1
+customer service,warranty,1
+service outages and maintenance,patientendaten,1
+service outages and maintenance,datasecurity,1
+product support,resourcemanagement,1
+product support,smooth,1
+billing and payments,access controls,1
+technical support,magento,1
+technical support,nuendo,1
+sales and pre-sales,promotion,1
+service outages and maintenance,limitation,1
+product support,malfunction,1
+it support,access controls,1
+sales and pre-sales,access_control,1
+technical support,limitations,1
+product support,hr,1
+customer service,monday.com,1
+sales and pre-sales,adtargeting,1
+product support,cyberthreats,1
+technical support,feed,1
+technical support,guide,1
+service outages and maintenance,"backup,virus,security,breach,performance,disruption",1
+billing and payments,enhancement,1
+it support,inconvenience,1
+billing and payments,duplication,1
+customer service,company,1
+technical support,adtargeting,1
+sales and pre-sales,cybersecurity,1
+technical support,promotion,1
+technical support,router,1
+returns and exchanges,elasticsearch,1
+general inquiry,artificialintelligence,1
+technical support,notion,1
+returns and exchanges,spss,1
+customer service,datasynchronization,1
+customer service,terraform,1
+it support,outdateddrivers,1
+customer service,signatures,1
+billing and payments,tutorial,1
+service outages and maintenance,returns,1
+customer service,role,1
+technical support,scikit-learn,1
+technical support,solutions,1
+it support,gitlab,1
+customer service,h2o.ai,1
+customer service,discount,1
+billing and payments,premium plans,1
+product support,data feed,1
+product support,accessmanagement,1
+technical support,dataloading,1
+billing and payments,longtermagreements,1
+it support,tag,1
+customer service,target,1
+billing and payments,multi-factor authentication,1
+billing and payments,customizabledashboards,1
+customer service,real-time analytics,1
+returns and exchanges,requirements,1
+billing and payments,payment processing,1
+technical support,datatransmission,1
+customer service,safety,1
+technical support,machine,1
+it support,crashlog,1
+it support,workload,1
+billing and payments,customization,1
+technical support,online presence,1
+customer service,actionteam,1
+billing and payments,lossprevention,1
+billing and payments,sql server,1
+billing and payments,humanerror,1
+general inquiry,onboarding,1
+returns and exchanges,customer service,1
+product support,updates,1
+customer service,engagementstrategy,1
+service outages and maintenance,saas,1
+returns and exchanges,setting,1
+technical support,un outage,1
+returns and exchanges,industrystandard,1
+customer service,predictive modeling,1
+billing and payments,customerengagement,1
+technical support,php,1
+customer service,cache,1
+technical support,future,1
+product support,systemupdate,1
+customer service,zapier,1
+product support,multilingual,1
+service outages and maintenance,guidelines,1
+customer service,productvisibility,1
+sales and pre-sales,drupal commerce,1
+customer service,office,1
+it support,quotation,1
+it support,customization,1
+billing and payments,time,1
+customer service,viber,1
+it support,"technical,bug,crash,product",1
+it support,avidprotools,1
+billing and payments,datenverletzung,1
+billing and payments,powerbi,1
+customer service,loss,1
+sales and pre-sales,medical data,1
+service outages and maintenance,microsoft dynamics 365,1
+billing and payments,rabatt,1
+sales and pre-sales,unauthorizedaccess,1
+product support,loss,1
+product support,workstation,1
+technical support,thirdparty,1
+technical support,unauthorized,1
+service outages and maintenance,fix,1
+it support,easeofuse,1
+returns and exchanges,erp,1
+product support,contact,1
+billing and payments,plugin,1
+sales and pre-sales,risk,1
+service outages and maintenance,datatransfer,1
+product support,security protocols,1
+technical support,sap erp,1
+customer service,softwareversion,1
+customer service,markenwachstum,1
+product support,conversions,1
+customer service,linux,1
+service outages and maintenance,user experience,1
+product support,socialmediamanagement,1
+returns and exchanges,market,1
+product support,list,1
+it support,air,1
+billing and payments,mismatch,1
+product support,screen recorder,1
+technical support,influencermarketing,1
+general inquiry,software compatibility,1
+technical support,registration,1
+technical support,outdated libraries,1
+product support,emailmarketing,1
+customer service,bank,1
+it support,personalization,1
+service outages and maintenance,projectmanagement,1
+customer service,reliableaccess,1
+billing and payments,userexperience,1
+customer service,"technical,customer,integration,bug,authentication,documentation,resolution,guidance",1
+technical support,dataconsistency,1
+customer service,datamanagement,1
+general inquiry,elasticsearch,1
+technical support,infection,1
+billing and payments,pricing models,1
+technical support,returnoninvestment,1
+sales and pre-sales,campaignparticipation,1
+it support,usb,1
+technical support,messaging,1
+product support,investmentsoftware,1
+product support,datadriven,1
+customer service,progresstracking,1
+sales and pre-sales,consulting,1
+returns and exchanges,twofactorauthentication,1
+technical support,oracle,1
+it support,digitalstrategy,1
+it support,notebook,1
+technical support,concurrent,1
+service outages and maintenance,driver,1
+technical support,endpoint,1
+billing and payments,recommendation,1
+service outages and maintenance,datumsicherheit,1
+general inquiry,storage,1
+technical support,convenience,1
+customer service,system specifications,1
+returns and exchanges,confluence,1
+service outages and maintenance,jira,1
+sales and pre-sales,adobepremierepro,1
+it support,translation,1
+returns and exchanges,tech,1
+billing and payments,sap,1
+sales and pre-sales,digitalcampaign,1
+service outages and maintenance,infrastructure,1
+service outages and maintenance,memory,1
+it support,unfall,1
+billing and payments,expense,1
+customer service,detailed information,1
+technical support,jenkins,1
+it support,vulnerabilities,1
+product support,widgets,1
+technical support,financial,1
+product support,systemload,1
+service outages and maintenance,service,1
+service outages and maintenance,node.js,1
+it support,mobile,1
+product support,"digital,campaign,performance,issue,resolution,feedback",1
+general inquiry,data,1
+billing and payments,details,1
+service outages and maintenance,recent update,1
+customer service,linuxmint,1
+it support,datensicherheit,1
+billing and payments,creative,1
+product support,googlekeep,1
+product support,third party,1
+product support,"technical,bug,resolution,feedback",1
+technical support,analysistools,1
+sales and pre-sales,online,1
+customer service,audit,1
+billing and payments,bundle,1
+general inquiry,influencer,1
+product support,discord,1
+product support,hardwarerequirements,1
+general inquiry,digital strategy,1
+product support,agency,1
+customer service,oracledatabase19c,1
+technical support,operatingsystem,1
+billing and payments,emailmarketing,1
+product support,medicaldata,1
+product support,humanerror,1
+technical support,workstation,1
+technical support,suggestion,1
+sales and pre-sales,recommendation,1
+product support,thirdparty,1
+technical support,ram,1
+service outages and maintenance,"technical,customer,bug,hardware,resolution,vulnerability",1
+technical support,systemupdate,1
+sales and pre-sales,ad,1
+it support,live streaming,1
+customer service,"customer,finance,technical,feedback",1
+it support,alteryx,1
+it support,projection,1
+billing and payments,digital marketing services,1
+it support,realtimeupdates,1
+billing and payments,budgeting,1
+technical support,"technical,bug,crash,resolution,feedback,documentation",1
+product support,system requirements,1
+technical support,webhook,1
+service outages and maintenance,platform,1
+product support,record,1
+customer service,trial,1
+service outages and maintenance,connection,1
+technical support,ccleaner,1
+sales and pre-sales,adobe premiere pro,1
+human resources,informationrequest,1
+returns and exchanges,contactinformation,1
+general inquiry,contentmarketing,1
+it support,datastorage,1
+sales and pre-sales,features,1
+sales and pre-sales,digitalstrategy,1
+product support,google,1
+customer service,cloudfunctions,1
+technical support,datahandling,1
+customer service,bitlocker,1
+technical support,audiosettings,1
+sales and pre-sales,safety,1
+billing and payments,casestudies,1
+billing and payments,testimonials,1
+service outages and maintenance,cost,1
+customer service,medical data,1
+customer service,markettrend,1
+sales and pre-sales,malfunction,1
+it support,project,1
+billing and payments,longtermcommitments,1
+customer service,traffic,1
+service outages and maintenance,requirement,1
+billing and payments,unpaid,1
+it support,livestream,1
+technical support,export,1
+product support,windows,1
+billing and payments,action,1
+technical support,smart-tracker,1
+returns and exchanges,request,1
+customer service,potential,1
+service outages and maintenance,content,1
+it support,softwareupdate,1
+product support,availability,1
+returns and exchanges,vr,1
+product support,campaignmanagement,1
+general inquiry,workflow,1
+technical support,warranty,1
+service outages and maintenance,sensitivität,1
+product support,goodpractice,1
+customer service,databreaches,1
+billing and payments,softwareupdate,1
+product support,notion,1
+technical support,company,1
+billing and payments,equipment,1
+it support,replacement,1
+technical support,meetings,1
+it support,predictiveinsights,1
+technical support,microsoftdynamics365,1
+billing and payments,vertraulichkeit,1
+it support,trust,1
+it support,datum,1
+general inquiry,usergeneratedcontent,1
+it support,dokumentenscanner,1
+it support,indexing,1
+general inquiry,backup,1
+billing and payments,ubuntu,1
+customer service,duolingo,1
+technical support,malfunction,1
+technical support,investment analytics,1
+general inquiry,successstories,1
+it support,saperp,1
+technical support,high traffic,1
+service outages and maintenance,"technical,crash,outage,feedback",1
+technical support,"technical,customer,bug,feedback,resolution",1
+general inquiry,management,1
+customer service,consultation,1
+general inquiry,dataanalysis,1
+product support,statisticalmodels,1
+service outages and maintenance,dringend,1
+technical support,content creation,1
+product support,auditing,1
+product support,consultation,1
+billing and payments,timeline,1
+it support,controls,1
+customer service,portfolios,1
+sales and pre-sales,upgrade,1
+customer service,projekttermin,1
+technical support,critical data loss,1
+customer service,datastream,1
+customer service,accessory,1
+it support,resources,1
+human resources,education,1
+it support,design,1
+product support,passwordstorage,1
+returns and exchanges,calendar,1
+product support,router,1
+customer service,sap_erp,1
+billing and payments,onlinepaymentsystem,1
+customer service,availability,1
+general inquiry,transmission,1
+it support,strategy support,1
+it support,meeting,1
+technical support,digitalsignage,1
+billing and payments,dat analysis,1
+service outages and maintenance,protocol,1
+technical support,specific error message,1
+billing and payments,annual plan,1
+sales and pre-sales,company,1
+it support,decisionmaking,1
+customer service,"technical,customer,product,integration,documentation,feedback",1
+billing and payments,longterm,1
+customer service,clearing,1
+technical support,resource allocation,1
+product support,caching,1
+technical support,patientdata,1
+product support,promotion,1
+product support,solutions,1
+customer service,integrationsschwierigkeit,1
+technical support,speed,1
+general inquiry,callsetup,1
+product support,option,1
+service outages and maintenance,specification,1
+general inquiry,filesharing,1
+it support,aes,1
+technical support,display,1
+returns and exchanges,influencermarketing,1
+customer service,smart home sensor,1
+it support,eclipse,1
+customer service,web traffic,1
+it support,assessment,1
+sales and pre-sales,xboxproducts,1
+technical support,data source,1
+billing and payments,cassandra,1
+product support,indexes,1
+general inquiry,router,1
+customer service,bestpractices,1
+it support,operating system,1
+product support,measure,1
+human resources,lead,1
+technical support,datastreams,1
+product support,transmission,1
+it support,brandgrowth,1
+service outages and maintenance,consulting,1
+technical support,predictiveanalytics,1
+technical support,settings,1
+technical support,projectmanagementsoftware,1
+product support,gnu compiler,1
+customer service,financial services,1
+customer service,parameter,1
+customer service,interactiondecline,1
+service outages and maintenance,firewalls,1
+technical support,restart,1
+technical support,market,1
+billing and payments,software-as-a-service,1
+returns and exchanges,abonnement,1
+customer service,googleanalytics,1
+customer service,central,1
+returns and exchanges,satisfaction,1
+it support,confidentiality,1
+sales and pre-sales,cyber-sicherheit,1
+returns and exchanges,statistics,1
+product support,systemflaw,1
+product support,sap erp,1
+product support,unauthorized,1
+product support,"technical,customer,product,feedback,guidance,documentation",1
+returns and exchanges,bestpractices,1
+technical support,dataingestion,1
+technical support,container,1
+billing and payments,digitalstrategyservices,1
+product support,softwareupgrade,1
+technical support,updates,1
+technical support,sabrent,1
+human resources,services,1
+technical support,performanceoptimization,1
+customer service,gaming,1
+service outages and maintenance,sicherheit,1
+customer service,project management,1
+returns and exchanges,software updates,1
+product support,examination,1
+technical support,scanning,1
+it support,technology,1
+it support,macbookpro,1
+technical support,softwareversion,1
+technical support,mysql,1
+returns and exchanges,"billing,product,error,data analytics,breach",1
+product support,realtimeanalysis,1
+sales and pre-sales,internetconnection,1
+technical support,interface,1
+service outages and maintenance,customersupport,1
+customer service,datatraveler,1
+technical support,linux,1
+customer service,signing process,1
+service outages and maintenance,crm,1
+technical support,"analysis,troubleshooting",1
+product support,messaging,1
+technical support,add_ins,1
+it support,measures,1
+general inquiry,automation,1
+technical support,effort,1
+technical support,betriebssystem,1
+it support,casestudies,1
+billing and payments,misconfiguration,1
+human resources,request,1
+technical support,dataquality,1
+technical support,sign,1
+billing and payments,convenience,1
+it support,nodejs,1
+product support,unauthorizedaccess,1
+customer service,student,1
+sales and pre-sales,dataintegration,1
+it support,intellij idea,1
+product support,data leak,1
+billing and payments,digitalstrategy,1
+it support,internetconnection,1
+returns and exchanges,consistency,1
+customer service,medicaldata,1
+returns and exchanges,setup,1
+product support,allocation,1
+technical support,casestudies,1
+technical support,laravel,1
+it support,system failure,1
+customer service,connector,1
+service outages and maintenance,systemrequirements,1
+sales and pre-sales,google cloud platform,1
+billing and payments,avast,1
+technical support,crash report issue,1
+it support,management,1
+product support,translation,1
+it support,"crash,bug,hardware,resolution,software,outage,technical,customer",1
+technical support,innovation,1
+sales and pre-sales,notification,1
+sales and pre-sales,innovation,1
+product support,"technical,crash,outage,resolution,bug",1
+human resources,api,1
+billing and payments,payment gateways,1
+technical support,github,1
+technical support,marketingautomation,1
+sales and pre-sales,implementation,1
+it support,evening,1
+it support,backlog,1
+product support,crm,1
+billing and payments,paymentterms,1
+technical support,microsoft dynamics 365,1
+technical support,google cloud platform,1
+returns and exchanges,datastorage,1
+technical support,databaseproblem,1
+sales and pre-sales,marketingstrategy,1
+technical support,social media management,1
+technical support,"technical,customer,product,feedback,bug,documentation",1
+technical support,multifactorauthentication,1
+customer service,critical,1
+sales and pre-sales,predictivemodeling,1
+customer service,digitalstrategies,1
+sales and pre-sales,configuration,1
+technical support,software update,1
+customer service,securitymeasure,1
+product support,ad spending,1
+customer service,appointment,1
+product support,refinement,1
+product support,app,1
+product support,urgently,1
+sales and pre-sales,incompatibility,1
+general inquiry,social media marketing,1
+customer service,hardware requirements,1
+returns and exchanges,outlook,1
+product support,order,1
+it support,browserproblem,1
+technical support,apache hadoop,1
+technical support,crashing,1
+billing and payments,outdated plugin,1
+it support,cable,1
+technical support,predictivemodeling,1
+product support,audio,1
+technical support,revenue,1
+service outages and maintenance,datasystem,1
+product support,session,1
+service outages and maintenance,influencermarketing,1
+product support,casestudy,1
+billing and payments,proposal,1
+it support,tactics,1
+returns and exchanges,customer satisfaction,1
+product support,excelintegration,1
+customer service,operating system,1
+product support,credential,1
+it support,data loss,1
+billing and payments,networkpolicies,1
+technical support,video,1
+service outages and maintenance,gaming,1
+billing and payments,external,1
+technical support,security measures,1
+customer service,userpermissions,1
+product support,customersupport,1
+technical support,financialanalysis,1
+technical support,schedule,1
+human resources,survey,1
+billing and payments,workflow,1
+returns and exchanges,oracle,1
+product support,wix,1
+returns and exchanges,"digital,campaign,engagement,conversion,guidance,suggestion",1
+technical support,resource management,1
+customer service,connectionproblem,1
+general inquiry,macos,1
+service outages and maintenance,engagement,1
+it support,crash log,1
+returns and exchanges,ibm,1
+general inquiry,model,1
+sales and pre-sales,outdatedcontent,1
+billing and payments,expansion,1
+technical support,datatransfer,1
+product support,critical,1
+customer service,brandgrowth,1
+billing and payments,datum analytics tool,1
+product support,brandgrowth,1
+general inquiry,patch,1
+service outages and maintenance,usability,1
+returns and exchanges,alteryx,1
+customer service,software platform,1
+general inquiry,access,1
+customer service,aws,1
+customer service,adplacement,1
+it support,frame rate,1
+human resources,asana,1
+billing and payments,strategyservices,1
+technical support,mongodb4.4,1
+sales and pre-sales,salesstrategy,1
+returns and exchanges,verification,1
+product support,software updates,1
+sales and pre-sales,problem,1
+technical support,audiencereach,1
+billing and payments,crm,1
+service outages and maintenance,reporting,1
+it support,payment,1
+technical support,systemrequirements,1
+product support,planning,1
+billing and payments,overcharging,1
+returns and exchanges,connectivity,1
+general inquiry,campaignmanagement,1
+it support,initiative,1
+customer service,fulldiskencryption,1
+customer service,brandrecognition,1
+sales and pre-sales,specifications,1
+human resources,development,1
+it support,dataintegration,1
+sales and pre-sales,datastorage,1
+billing and payments,financialgoals,1
+billing and payments,sensor,1
+technical support,datastorage,1
+customer service,diagnostic,1
+customer service,konflikt,1
+sales and pre-sales,infrastructure,1
+sales and pre-sales,hipaa,1
+returns and exchanges,saas,1
+billing and payments,tracking,1
+technical support,quick assistance,1
+billing and payments,digital services,1
+customer service,sql server,1
+billing and payments,accrual,1
+sales and pre-sales,casestudies,1
+technical support,internet,1
+billing and payments,suggestion,1
+product support,task,1
+it support,vorteils vergleich,1
+billing and payments,softwarefeaure,1
+general inquiry,content,1
+sales and pre-sales,task,1
+product support,office365,1
+technical support,"technical,customer,bug,it,outage,resolution",1
+it support,"technical,crash,ubuntu,bug,resolution",1
+product support,online,1
+technical support,syncissue,1
+returns and exchanges,bitbucket,1
+general inquiry,brand,1
+customer service,cyberattack,1
+product support,datadrivendecisions,1
+product support,customer satisfaction,1
+general inquiry,team,1
+customer service,refresh,1
+general inquiry,compatibility,1
+it support,"technical,bug,crash,product,hardware",1
+technical support,systemrequirement,1
+billing and payments,wealthmanagement,1
+product support,digital campaign,1
+product support,specifications,1
+customer service,investmentportfolios,1
+it support,risk,1
+sales and pre-sales,smarthomehub,1
+technical support,writingexperience,1
+general inquiry,adjustment,1
+technical support,printer,1
+product support,firewalls,1
+billing and payments,missing,1
+general inquiry,assistance,1
+sales and pre-sales,rapidminer,1
+general inquiry,metric,1
+returns and exchanges,platform,1
+billing and payments,late fees,1
+billing and payments,influencermarketing,1
+customer service,specification,1
+customer service,callback,1
+it support,outdated cache,1
+human resources,report,1
+customer service,casestudies,1
+billing and payments,billing cycle,1
+it support,google,1
+product support,endpoint,1
+product support,operatingsystem,1
+product support,microsoftteams,1
+human resources,urgent,1
+returns and exchanges,rails,1
+customer service,microsoftteams,1
+customer service,team management,1
+returns and exchanges,cassandra,1
+technical support,task,1
+product support,outlook,1
+sales and pre-sales,target,1
+billing and payments,currency,1
+customer service,decisionsupport,1
+product support,projecttracking,1
+customer service,convenience,1
+service outages and maintenance,alternative,1
+returns and exchanges,revision,1
+returns and exchanges,sap,1
+technical support,rapidminer,1
+technical support,userexperience,1
+technical support,loganalysis,1
+returns and exchanges,servicerestart,1
+customer service,recent update,1
+service outages and maintenance,expansion,1
+billing and payments,accrued,1
+technical support,accessmanagement,1
+billing and payments,miscalculation,1
+general inquiry,technology,1
+product support,prevention,1
+product support,cloud,1
+billing and payments,process,1
+customer service,component,1
+product support,dataflow,1
+product support,learning,1
+billing and payments,creditcards,1
+customer service,"technical,customer,integration,documentation,guidance",1
+technical support,2019,1
+service outages and maintenance,magento,1
+general inquiry,datastorage,1
+product support,datenverlust,1
+technical support,editingcapabilites,1
+technical support,content marketing,1
+billing and payments,payment methods,1
+it support,sensitivedata,1
+returns and exchanges,equipment,1
+product support,two-factor authentication,1
+product support,inconsistency,1
+technical support,typo3,1
+technical support,digital strategy,1
+technical support,access control,1
+billing and payments,free trials,1
+product support,secure,1
+service outages and maintenance,promotion,1
+customer service,cashflowmanagement,1
+technical support,data overflow,1
+billing and payments,monthly,1
+technical support,ai,1
+it support,scalability,1
+product support,load speed,1
+billing and payments,practices,1
+product support,projectmanagementsaas,1
+human resources,obs studio,1
+customer service,accuracy,1
+billing and payments,banktransfers,1
+customer service,taskassignment,1
+sales and pre-sales,digital strategy,1
+technical support,returns,1
+general inquiry,reporting,1
+customer service,scrivener,1
+technical support,asana,1
+returns and exchanges,datum,1
+returns and exchanges,model,1
+billing and payments,informationrequest,1
+returns and exchanges,softwareissue,1
+sales and pre-sales,chef,1
+human resources,datastorage,1
+sales and pre-sales,outcome,1
+returns and exchanges,timeline,1
+billing and payments,adobecreativecloud,1
+sales and pre-sales,machinelearning,1
+technical support,symptoms,1
+billing and payments,vital,1
+billing and payments,seo,1
+billing and payments,contentmarketing,1
+customer service,microsoft teams,1
+returns and exchanges,access,1
+customer service,technical support,1
+it support,vital,1
+technical support,portfoliomanagement,1
+billing and payments,corporate,1
+product support,protocol,1
+customer service,campaigns,1
+service outages and maintenance,windows,1
+it support,errorlogging,1
+product support,algorithms,1
+technical support,chef,1
+it support,systemintegration,1
+it support,automation,1
+customer service,"technical,customer,product,integration,dashboard,update",1
+product support,technical support,1
+billing and payments,scalability,1
+billing and payments,teammanagement,1
+technical support,control,1
+it support,seo,1
+technical support,ansible,1
+product support,datainconsistency,1
+service outages and maintenance,cybersecurity,1
+customer service,systems,1
+product support,visualization,1
+customer service,visualization,1
+customer service,performanceanalysis,1
+customer service,realtime,1
+sales and pre-sales,contentstrategy,1
+technical support,importance,1
+customer service,onlineprofile,1
+technical support,smoothintegration,1
+it support,informationsafety,1
+it support,quote,1
+human resources,"digital,campaigns,feedback,strategy,content,analysis",1
+general inquiry,teaminteraction,1
+it support,services,1
+technical support,backend,1
+general inquiry,casestudies,1
+product support,excel,1
+technical support,project oversight,1
+it support,targetaudience,1
+sales and pre-sales,adfatigue,1
+technical support,informationstreams,1
+technical support,datasecurity,1
+customer service,productpromotion,1
+technical support,aftereffects,1
+technical support,prediction,1
+it support,data leak,1
+technical support,accounting,1
+product support,datamodeling,1
+technical support,brandexpansion,1
+customer service,specifications,1
+technical support,legal,1
+human resources,learning,1
+customer service,datastorage,1
+billing and payments,bundles,1
+returns and exchanges,concerned,1
+sales and pre-sales,dataencryption,1
+human resources,cooperation,1
+billing and payments,passwordmanagement,1
+customer service,review,1
+billing and payments,engagement,1
+technical support,mismatch,1
+technical support,"customer,sales,strategy,online presence,method,website,interaction",1
+it support,influencermarketing,1
+product support,digital marketing,1
+service outages and maintenance,query,1
+product support,measures,1
+product support,delays,1
+service outages and maintenance,dataanalysis,1
+customer service,electronicsignature,1
+returns and exchanges,python,1
+returns and exchanges,incompatibility,1
+customer service,task,1
+technical support,keymanagement,1
+customer service,humanerror,1
+it support,updates,1
+it support,safety,1
+technical support,data retrieval,1
+customer service,"digital,campaign,performance,issue,resolution,urgency,communication,action,algorithm,maintenance,follow-up",1
+it support,mysql,1
+product support,audit,1
+technical support,webcamsettings,1
+technical support,network congestion,1
+billing and payments,due dates,1
+customer service,scheduling,1
+customer service,agency,1
+technical support,videoconference,1
+service outages and maintenance,strategy_update,1
+it support,computing,1
+returns and exchanges,financialanalysis,1
+customer service,accessmanagement,1
+sales and pre-sales,reporting,1
+technical support,digital channels,1
+product support,function,1
+product support,verlust,1
+customer service,customerservice,1
+it support,vpn,1
+human resources,monday.com,1
+billing and payments,secretmanagement,1
+product support,systemrequirements,1
+billing and payments,term,1
+technical support,successstories,1
+customer service,malware,1
+it support,streaming,1
+human resources,authentication,1
+billing and payments,uptodatesoftware,1
+general inquiry,billing,1
+technical support,disclaimer,1
+it support,multifactorauthentication,1
+general inquiry,estimate,1
+general inquiry,upgrade,1
+product support,contentcreation,1
+customer service,access-control,1
+human resources,synchronization,1
+billing and payments,billing plan,1
+service outages and maintenance,glitch,1
+customer service,visibility,1
+technical support,google cloud,1
+it support,dataprotection,1
+it support,online visibility,1
+billing and payments,multifactorauthentication,1
+human resources,hiringprocess,1
+customer service,potentialrisk,1
+product support,system resources,1
+technical support,adobe_creative_cloud,1
+general inquiry,malfunction,1
+returns and exchanges,standard,1
+technical support,cable,1
+customer service,synchronisieren,1
+billing and payments,setup,1
+it support,informationrequired,1
+customer service,restart,1
+product support,financial,1
+general inquiry,issue,1
+returns and exchanges,protection,1
+technical support,writing,1
+service outages and maintenance,contentdevelopment,1
+general inquiry,vulnerability,1
+billing and payments,datatransfer,1
+technical support,onlineadvertising,1
+customer service,financialreporting,1
+customer service,jenkins,1
+product support,display,1
+general inquiry,content creation,1
+it support,navigationsstructure,1
+technical support,load,1
+sales and pre-sales,expansion,1
+product support,postgresql,1
+sales and pre-sales,account,1
+service outages and maintenance,socialmedia,1
+billing and payments,user experience,1
+technical support,avast,1
+it support,discrepancy,1
+returns and exchanges,ad,1
+it support,trouble shooting,1
+it support,inquiry,1
+returns and exchanges,mysql,1
+general inquiry,patientdata,1
+general inquiry,intelligence,1
+service outages and maintenance,portfolio,1
+customer service,concern,1
+human resources,pytorch,1
+product support,discrepancies,1
+technical support,new member,1
+product support,visibility,1
+billing and payments,real-time,1
+returns and exchanges,emailmarketing,1
+technical support,visitor,1
+returns and exchanges,system,1
+human resources,discount,1
+technical support,activation,1
+sales and pre-sales,prevention,1
+returns and exchanges,gcp,1
+customer service,"technical,customer,integration,problem reporting,solution request",1
+billing and payments,safeguard,1
+billing and payments,log,1
+technical support,targeting,1
+customer service,refund,1
+it support,software compatibility,1
+it support,interaction,1
+returns and exchanges,ruby,1
+product support,dynamics,1
+sales and pre-sales,assistance,1
+customer service,resource,1
+human resources,scanner,1
+customer service,data protection,1
+technical support,timelines,1
+product support,customer relationship,1
+sales and pre-sales,systems,1
+sales and pre-sales,protocol,1
+product support,rejection,1
+customer service,portfoliomanagement,1
+service outages and maintenance,functionality,1
+technical support,teams,1
+service outages and maintenance,billing,1
+technical support,investmentanalytics,1
+it support,informationsecurity,1
+technical support,data_analysis,1
+sales and pre-sales,campaigns,1
+product support,investmentportfolio,1
+billing and payments,interaction,1
+customer service,adtext,1
+technical support,detail,1
+service outages and maintenance,authentication,1
+sales and pre-sales,technical specifications,1
+it support,"technical,crash,software,bug,hardware,outage,maintenance",1
+technical support,adjustment,1
+customer service,sensitivity,1
+product support,digital strategy,1
+customer service,userroles,1
+general inquiry,portfolio,1
+product support,dataset,1
+it support,"technical,customer,bug,website,resolution,feedback,support",1
+it support,microsoftoffice,1
+product support,coordination,1
+sales and pre-sales,markenentwicklung,1
+technical support,financial service,1
+sales and pre-sales,excel,1
+product support,unsecured,1
+returns and exchanges,mongodb,1
+it support,regulation,1
+customer service,ai,1
+returns and exchanges,security breach,1
+it support,conversion,1
+billing and payments,raid-controller,1
+technical support,onlinemarketing,1
+it support,ide,1
+technical support,excel,1
+customer service,response,1
+technical support,situation,1
+service outages and maintenance,clarification,1
+general inquiry,emailcampaign,1
+sales and pre-sales,requirement,1
+product support,precision,1
+customer service,data integrity,1
+technical support,medicaldatastorage,1
+sales and pre-sales,visualization,1
+it support,business,1
+customer service,passwordreset,1
+sales and pre-sales,data integration,1
+technical support,accuracy,1
+it support,inaccuracy,1
+general inquiry,firewall,1
+customer service,gdpr,1
+general inquiry,prediction,1
+billing and payments,audits,1
+technical support,"technical,customer,product,integration,guidance,documentation",1
+sales and pre-sales,urgent,1
+customer service,spend,1
+customer service,telephone,1
+technical support,team,1
+service outages and maintenance,expiration,1
+general inquiry,medicaldata,1
+billing and payments,complaint,1
+service outages and maintenance,malfunction,1
+returns and exchanges,tutorial,1
+product support,efficiencyloss,1
+sales and pre-sales,presence,1
+returns and exchanges,patient,1
+technical support,records,1
+technical support,serverrestart,1
+technical support,learning,1
+product support,contentstrategy,1
+technical support,load speed,1
+customer service,investment_returns,1
+customer service,serverconfiguration,1
+technical support,"technical,bug,virus,security,breach,documentation",1
+customer service,marketing materials,1
+product support,response,1
+product support,software upgrade,1
+customer service,digital strategy,1
+technical support,disconnection,1
+it support,internet,1
